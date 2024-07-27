@@ -38,3 +38,5 @@ flask run --debug
 % Run pytest
 
 pytest
+
+TESTING
